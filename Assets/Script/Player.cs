@@ -51,8 +51,11 @@ class Player : MonoBehaviour
     {
         if((Input.GetKeyDown(KeyCode.DownArrow) || isSlideBtn) && isGround)
         {
-            slide = true;
-            slidingTime = 0f;
+            if(!slide)
+            {
+                slide = true;
+                slidingTime = 0f;
+            }
         }
 
         if(slide)
