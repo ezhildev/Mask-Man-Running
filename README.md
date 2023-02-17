@@ -7,11 +7,11 @@ Mask man is 2D endless running game like Temple run and surface surfer. This gam
 
 ## Screenshots
 ### Main menu
-![Main menu](screenshot-img/Menuscr.png)
+![Main menu](https://ezhildev.github.io/Mask-Man-Running/screenshot-img/Menuscr.png)
 
 <br>
 <br>
 
 ### Game play
-![Game play](screenshot-img/Gameplayscr.png)
+![Game play](https://ezhildev.github.io/Mask-Man-Running/screenshot-img/Gameplayscr.png)
 
